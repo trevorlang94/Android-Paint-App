@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android"
+    style="popupMenuStyle">
+
+
+    <group android:checkableBehavior="single"
+           android:checkable="true">
+        <item android:title="@string/coloritem_1"
+            android:id="@+id/item1"/>
+        <item android:title="@string/coloritem_2"
+              android:id="@+id/item2"/>
+        <item android:title="@string/coloritem_3"
+              android:id="@+id/item3"/>
+        <item android:title="@string/coloritem_4"
+              android:id="@+id/item4"/>
+        <item android:title="@string/coloritem_5"
+              android:id="@+id/item5"/>
+        <item android:title="@string/coloritem_6"
+              android:id="@+id/item6"/>
+        <item android:title="@string/coloritem_7"
+              android:id="@+id/item7"/>
+        <item android:title="@string/coloritem_8"
+              android:id="@+id/item8"/>
+        <item android:title="@string/coloritem_9"
+              android:id="@+id/item9"/>
+        <item android:title="@string/coloritem_10"
+              android:id="@+id/item10"/>
+        <item android:title="@string/coloritem_11"
+              android:id="@+id/item11"/>
+        <item android:title="@string/coloritem_12"
+              android:id="@+id/item12"/>
+    </group>
+
+
+</menu>
